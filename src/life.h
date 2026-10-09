@@ -1,4 +1,4 @@
-// Copyright (C) 2026 ClckHre
+// Copyright (C) 2026 IntegralEclipse
 // License: GPL-3.0-or-later
 
 #include <stdbool.h>
